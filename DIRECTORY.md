@@ -24,4 +24,22 @@
         * [Coin Marketcap 06/01/2018](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/Exploring-the-Bitcoin-Cryptocurrency-Market/datasets/coinmarketcap_06012018.csv)
         * [Coin marketcap 06/12/2017](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/Exploring-the-Bitcoin-Cryptocurrency-Market/datasets/coinmarketcap_06122017.csv)
 
+* [Introduction to DataCamp Projects](https://github.com/AnuragAnalog/Datacamp/tree/master/projects/Python/Introduction-to-DataCamp-Projects)
+    * [Notebook](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/Introduction-to-DataCamp-Projects/notebook.ipynb)
+    * [Datasets](https://github.com/AnuragAnalog/Datacamp/tree/master/projects/Python/Introduction-to-DataCamp-Projects/datasets)
+        * [Global Temperature](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/Introduction-to-DataCamp-Projects/datasets/global_temperature.csv)
+
+* [Risk and Returns: The Sharpe Ratio](https://github.com/AnuragAnalog/Datacamp/tree/master/projects/Python/Risk-and-Returns:-The-Sharpe-Ratio)
+    * [Notebook](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/Risk-and-Returns:-The-Sharpe-Ratio/notebook.ipynb)
+    * [Datasets](https://github.com/AnuragAnalog/Datacamp/tree/master/projects/Python/Risk-and-Returns:-The-Sharpe-Ratio/datasets)
+        * [Bench Mark](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/Risk-and-Returns:-The-Sharpe-Ratio/datasets/benchmark_data.csv)
+        * [Iris](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/Risk-and-Returns:-The-Sharpe-Ratio/datasets/iris.csv)
+        * [Stock Data](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/Risk-and-Returns:-The-Sharpe-Ratio/datasets/stock_data.csv)
+
+* [TV, Halftime Shows, and the Big Game](https://github.com/AnuragAnalog/Datacamp/tree/master/projects/Python/TV,-Halftime-Shows,-and-the-Big-Game)
+    * [Notebook](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/TV,-Halftime-Shows,-and-the-Big-Game/notebook.ipynb)
+    * [Datasets](https://github.com/AnuragAnalog/Datacamp/tree/master/projects/Python/TV,-Halftime-Shows,-and-the-Big-Game/datasets)
+        * [Halftime Musicians](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/TV,-Halftime-Shows,-and-the-Big-Game/datasets/halftime_musicians.csv)
+        * [Super bowls](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/TV,-Halftime-Shows,-and-the-Big-Game/datasets/super_bowls.csv)
+        * [TV](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/TV,-Halftime-Shows,-and-the-Big-Game/datasets/tv.csv)
 ### SQL
