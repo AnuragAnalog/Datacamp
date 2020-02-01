@@ -42,4 +42,8 @@
         * [Halftime Musicians](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/TV,-Halftime-Shows,-and-the-Big-Game/datasets/halftime_musicians.csv)
         * [Super bowls](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/TV,-Halftime-Shows,-and-the-Big-Game/datasets/super_bowls.csv)
         * [TV](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/TV,-Halftime-Shows,-and-the-Big-Game/datasets/tv.csv)
+        
 ### SQL
+
+* [Introduction to DataCamp Projects](https://github.com/AnuragAnalog/Datacamp/tree/master/projects/SQL/Introduction-to-DataCamp-Projects)
+    * [Notebook](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/SQL/Introduction-to-DataCamp-Projects/notebook.ipynb)
