@@ -8,6 +8,20 @@
 
 * [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/AnuragAnalog/Datacamp/tree/master/projects/Python/Dr.-Semmelweis-and-the-Discovery-of-Handwashing)
     * [Notebook](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/Dr.-Semmelweis-and-the-Discovery-of-Handwashing/notebook.ipynb)
-    * [Monthly deaths](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/Dr.-Semmelweis-and-the-Discovery-of-Handwashing/datasets/monthly_deaths.csv)
-    * [Yearly deaths by clinic](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/Dr.-Semmelweis-and-the-Discovery-of-Handwashing/datasets/yearly_deaths_by_clinic.csv)
+    * [Datasets](https://github.com/AnuragAnalog/Datacamp/tree/master/projects/Python/Dr.-Semmelweis-and-the-Discovery-of-Handwashing/datasets)
+        * [Monthly deaths](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/Dr.-Semmelweis-and-the-Discovery-of-Handwashing/datasets/monthly_deaths.csv)
+        * [Yearly deaths by clinic](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/Dr.-Semmelweis-and-the-Discovery-of-Handwashing/datasets/yearly_deaths_by_clinic.csv)
+
+* [Exploring 67 years of LEGO](https://github.com/AnuragAnalog/Datacamp/tree/master/projects/Python/Exploring-67-years-of-LEGO)
+    * [Notebook](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/Exploring-67-years-of-LEGO/notebook.ipynb)
+    * [Datasets](https://github.com/AnuragAnalog/Datacamp/tree/master/projects/Python/Exploring-67-years-of-LEGO/datasets)
+        * [Colors](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/Exploring-67-years-of-LEGO/datasets/colors.csv)
+        * [Sets](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/Exploring-67-years-of-LEGO/datasets/sets.csv)
+
+* [Exploring the Bitcoin Cryptocurrency Market](https://github.com/AnuragAnalog/Datacamp/tree/master/projects/Python/Exploring-the-Bitcoin-Cryptocurrency-Market)
+    * [Notebook](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/Exploring-the-Bitcoin-Cryptocurrency-Market/notebook.ipynb)
+    * [Datasets](https://github.com/AnuragAnalog/Datacamp/tree/master/projects/Python/Exploring-the-Bitcoin-Cryptocurrency-Market/datasets)
+        * [Coin Marketcap 06/01/2018](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/Exploring-the-Bitcoin-Cryptocurrency-Market/datasets/coinmarketcap_06012018.csv)
+        * [Coin marketcap 06/12/2017](https://github.com/AnuragAnalog/Datacamp/blob/master/projects/Python/Exploring-the-Bitcoin-Cryptocurrency-Market/datasets/coinmarketcap_06122017.csv)
+
 ### SQL
