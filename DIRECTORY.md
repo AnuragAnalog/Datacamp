@@ -2,7 +2,23 @@
 
 ## [Courses](https://github.com/AnuragAnalog/Datacamp/tree/master/courses)
 
-### [Python]()
+### [Python](https://github.com/AnuragAnalog/Datacamp/tree/master/courses/python)
+
+* [Introduction to Importing Data in Python](https://github.com/AnuragAnalog/Datacamp/tree/master/courses/python/Introduction-to-Importing-Data-in-Python)
+
+    * [Chapter 1](https://github.com/AnuragAnalog/Datacamp/tree/master/courses/python/Introduction-to-Importing-Data-in-Python/chapter-1)
+    * [Chapter 2](https://github.com/AnuragAnalog/Datacamp/tree/master/courses/python/Introduction-to-Importing-Data-in-Python/chapter-2)
+    * [Chapter 3](https://github.com/AnuragAnalog/Datacamp/tree/master/courses/python/Introduction-to-Importing-Data-in-Python/chapter-3)
+    * [Datasets](https://github.com/AnuragAnalog/Datacamp/tree/master/courses/python/Introduction-to-Importing-Data-in-Python/datasets)
+        * [Chinook Sqlite format](https://github.com/AnuragAnalog/Datacamp/blob/master/courses/python/Introduction-to-Importing-Data-in-Python/datasets/Chinook.sqlite)
+        * [L-L1_LOSC_4_V1-1126259446-32 hdf5 format](https://github.com/AnuragAnalog/Datacamp/blob/master/courses/python/Introduction-to-Importing-Data-in-Python/datasets/L-L1_LOSC_4_V1-1126259446-32.hdf5)
+        * [Battledeath xlsx format](https://github.com/AnuragAnalog/Datacamp/blob/master/courses/python/Introduction-to-Importing-Data-in-Python/datasets/battledeath.xlsx)
+        * [Disarea dta format](https://github.com/AnuragAnalog/Datacamp/blob/master/courses/python/Introduction-to-Importing-Data-in-Python/datasets/disarea.dta)
+        * [Ja_data2 mat format](https://github.com/AnuragAnalog/Datacamp/blob/master/courses/python/Introduction-to-Importing-Data-in-Python/datasets/ja_data2.mat)
+        * [Mnist_kaggle_some_rows](https://github.com/AnuragAnalog/Datacamp/blob/master/courses/python/Introduction-to-Importing-Data-in-Python/datasets/mnist_kaggle_some_rows.csv)
+        * [Sales sas7bdat format](https://github.com/AnuragAnalog/Datacamp/blob/master/courses/python/Introduction-to-Importing-Data-in-Python/datasets/sales.sas7bdat)
+        * [Seaslug text](https://github.com/AnuragAnalog/Datacamp/blob/master/courses/python/Introduction-to-Importing-Data-in-Python/datasets/seaslug.txt)
+        * [Titanic_sub](https://github.com/AnuragAnalog/Datacamp/blob/master/courses/python/Introduction-to-Importing-Data-in-Python/datasets/titanic_sub.csv)
 
 ### [SQL]()
 
