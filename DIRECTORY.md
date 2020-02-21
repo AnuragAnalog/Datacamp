@@ -5,7 +5,6 @@
 ### [Python](https://github.com/AnuragAnalog/Datacamp/tree/master/courses/python)
 
 * [Introduction to Importing Data in Python](https://github.com/AnuragAnalog/Datacamp/tree/master/courses/python/Introduction-to-Importing-Data-in-Python)
-
     * [Chapter 1](https://github.com/AnuragAnalog/Datacamp/tree/master/courses/python/Introduction-to-Importing-Data-in-Python/chapter-1)
     * [Chapter 2](https://github.com/AnuragAnalog/Datacamp/tree/master/courses/python/Introduction-to-Importing-Data-in-Python/chapter-2)
     * [Chapter 3](https://github.com/AnuragAnalog/Datacamp/tree/master/courses/python/Introduction-to-Importing-Data-in-Python/chapter-3)
@@ -19,6 +18,21 @@
         * [Sales sas7bdat format](https://github.com/AnuragAnalog/Datacamp/blob/master/courses/python/Introduction-to-Importing-Data-in-Python/datasets/sales.sas7bdat)
         * [Seaslug text](https://github.com/AnuragAnalog/Datacamp/blob/master/courses/python/Introduction-to-Importing-Data-in-Python/datasets/seaslug.txt)
         * [Titanic_sub](https://github.com/AnuragAnalog/Datacamp/blob/master/courses/python/Introduction-to-Importing-Data-in-Python/datasets/titanic_sub.csv)
+
+* [Introduction to Natural Language Processing in Python](https://github.com/AnuragAnalog/Datacamp/tree/master/courses/python/Introduction-to-Natural-Language-Processing-in-Python)
+    * [Chapter 1](https://github.com/AnuragAnalog/Datacamp/tree/master/courses/python/Introduction-to-Natural-Language-Processing-in-Python/chapter-1)
+    * [Datasets](https://github.com/AnuragAnalog/Datacamp/tree/master/courses/python/Introduction-to-Natural-Language-Processing-in-Python/datasets)
+        * [English Stopwords text](https://github.com/AnuragAnalog/Datacamp/blob/master/courses/python/Introduction-to-Natural-Language-Processing-in-Python/datasets/english_stopwords.txt)
+        * [Grail text](https://github.com/AnuragAnalog/Datacamp/blob/master/courses/python/Introduction-to-Natural-Language-Processing-in-Python/datasets/grail.txt)
+
+* [Introduction to Network Analysis in Python](https://github.com/AnuragAnalog/Datacamp/tree/master/courses/python/Introduction-to-Network-Analysis-in-Python)
+    * [Chapter 1](https://github.com/AnuragAnalog/Datacamp/tree/master/courses/python/Introduction-to-Network-Analysis-in-Python/chapter-1)
+    * [Chapter 2](https://github.com/AnuragAnalog/Datacamp/tree/master/courses/python/Introduction-to-Network-Analysis-in-Python/chapter-2)
+    * [Chapter 3](https://github.com/AnuragAnalog/Datacamp/tree/master/courses/python/Introduction-to-Network-Analysis-in-Python/chapter-3)
+    * [Chapter 4](https://github.com/AnuragAnalog/Datacamp/tree/master/courses/python/Introduction-to-Network-Analysis-in-Python/chapter-4)
+    * [Datasets](https://github.com/AnuragAnalog/Datacamp/tree/master/courses/python/Introduction-to-Network-Analysis-in-Python/datasets)
+        * [Ego Twitter pickle format](https://github.com/AnuragAnalog/Datacamp/blob/master/courses/python/Introduction-to-Network-Analysis-in-Python/datasets/ego-twitter.p)
+        * [Github Users pickle format](https://github.com/AnuragAnalog/Datacamp/blob/master/courses/python/Introduction-to-Network-Analysis-in-Python/datasets/github_users.p)
 
 ### [SQL]()
 
