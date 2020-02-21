@@ -1,8 +1,12 @@
 # Directory Map
 
-## Courses
+## [Courses](https://github.com/AnuragAnalog/Datacamp/tree/master/courses)
 
-## Projects
+### [Python]()
+
+### [SQL]()
+
+## [Projects](https://github.com/AnuragAnalog/Datacamp/tree/master/projects)
 
 ### [Python](https://github.com/AnuragAnalog/Datacamp/tree/master/projects/Python)
 
