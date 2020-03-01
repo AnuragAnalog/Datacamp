@@ -1,3 +1,5 @@
 # Datacamp SQL
 
-![sql_logo.jpeg](https://learn.datacamp.com/courses/tech:sql)
+<p align=center>
+  <img src=sql_logo.jpeg href=https://learn.datacamp.com/courses/tech:sql>
+</p>

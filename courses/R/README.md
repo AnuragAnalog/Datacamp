@@ -1,3 +1,5 @@
 # Datacamp R
 
-![r_logo.jpeg](https://learn.datacamp.com/courses/tech:r)
+<p align=center>
+  <img src=r_logo.jpeg href=https://learn.datacamp.com/courses/tech:r>
+</p>
