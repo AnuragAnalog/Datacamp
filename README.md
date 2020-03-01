@@ -1,6 +1,6 @@
 # Datacamp
 
-![logo.png](https://www.datacamp.com/)
+![Datacamp Logo](logo.png)
 
 These are my datacamp courses and projects
 
