@@ -1,5 +1,0 @@
-datasets:
-
-https://archive.ics.uci.edu/ml/datasets.php
-
-most of the scikit learn models requires data without any missing values
