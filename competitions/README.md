@@ -13,5 +13,6 @@ Create your most insightful analysis using Workspace, our in-browser tool to wri
 * The competition is open and free to registered DataCamp users.
 * Only one entry per user. In the event of multiple entries being submitted the first entry will be considered as the main entry.
 * Make sure your competition workspace is published by the competition deadline in order for it to be valid.
+* In the event of a tie, the publication that is submitted first will win.
 
 > Please make sure you're 18+ years old and are allowed to take part in a skill-based competition from your country.
