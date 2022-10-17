@@ -12,3 +12,9 @@ Create a report that covers the following:
 * How does weight change with age for each of the three sex categories?
 * Can you estimate an abalone's age using its physical characteristics?
 * Investigate which variables are better predictors of age for abalones.
+
+## Prizes
+The winners will receive **DataCamp merchandise.**
+
+## Judging criteria
+This is a community-based competition. The top 5 most upvoted entries will win.
