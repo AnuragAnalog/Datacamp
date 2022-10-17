@@ -1,5 +1,7 @@
 # Can you estimate the age of an abalone?
 
+Prize: **DataCamp merchandise**
+
 ## 📖 Background
 You are working as an intern for an abalone farming operation in Japan. For operational and environmental reasons, it is an important consideration to estimate the age of the abalones when they go to market. 
 
