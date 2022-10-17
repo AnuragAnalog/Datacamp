@@ -1,3 +1,6 @@
+## Judging criteria
+This competition is for helping to understand how competitions work. This competition will not be judged.
+
 ## How to get started
 Create your most insightful analysis using Workspace, our in-browser tool to write, run, and publish data analyses. Once you’ve finished your work, you’ll need to publish it for review.
 
